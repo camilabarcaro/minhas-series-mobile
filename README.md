@@ -1,3 +1,4 @@
+
 # Minhas Series
 
 Aplicativo mobile para cadastrar, acompanhar e organizar series usando Expo, Expo Router, NativeWind e SQLite.
@@ -51,3 +52,7 @@ O projeto usa Expo Router com as telas `index`, `form` e `detalhe`. Os dados sao
 - Marcacao de serie como concluida ou assistindo.
 - Exclusao com confirmacao.
 - Persistencia local com SQLite.
+
+## Vídeo do teste de persistência
+
+https://github.com/user-attachments/assets/1f806356-f96b-4908-9dcc-9dfffbb2fcf3
